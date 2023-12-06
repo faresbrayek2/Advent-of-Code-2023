@@ -2,7 +2,7 @@
 
 Welcome to Advent of Code 2023! 🎄🌟
 
-![Advent of Code](https://adventofcode.com/static/favicon.png)
+![Advent of Code](https://adventofcode.com/favicon.png)
 
 ## Table of Contents
 
